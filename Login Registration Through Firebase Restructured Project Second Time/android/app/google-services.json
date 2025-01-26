@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162155995695",
+    "project_id": "second-flutter-withfirebase",
+    "storage_bucket": "second-flutter-withfirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162155995695:android:e607171452df8840979cda",
+        "android_client_info": {
+          "package_name": "com.example.conet_flutter_withfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbIZqphzOA2OwC8qxLwCDfCfVtgZ63lI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
